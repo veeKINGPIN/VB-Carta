@@ -1,8 +1,6 @@
-# Carta File Explorer Take-home
+# A nice example usage of hooks
 
-Welcome to the Carta front-end take-home challenge, we're excited to have you! 🎉🎉🎉
-
-Please refer to the document shared by your Carta recruiter for details about the problem and help getting started!
+Started out as a take hoe front-end test. Ended up creating a nice example of hooks work in real world situations
 
 ## Quick start
 
@@ -11,6 +9,4 @@ Please refer to the document shared by your Carta recruiter for details about th
 yarn
 # Run the app
 yarn start
-# Zip up your solution when you're done
-tar -czvf [your initials]-CARTA.tar.gz --exclude="node_modules" .
 ```
