@@ -1,0 +1,20 @@
+.order-form {
+	padding: 10px;
+	width: 50%;
+	border-right: 1px solid grey;
+}
+
+.buy-sell-buttons-container {
+	display: flex;
+}
+
+.buy-sell-button {
+	display: inline-block;
+	background-color: #353d41;
+	color: darkgrey;
+	padding: 5px 20px;
+	cursor: pointer;
+	text-align: center;
+	border: 1px solid grey;
+	flex: 1 1 auto;
+}

@@ -1,0 +1,7 @@
+.order-book {
+	padding: 10px;
+	width: 50%;
+	border-left: 1px solid grey;
+	display: flex;
+	flex-direction: column;
+}
